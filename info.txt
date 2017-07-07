@@ -1,0 +1,3 @@
+ 
+client id: 218972423429-jrq0rj4g0a06am2736fsb2hsu4t9ljaa.apps.googleusercontent.com
+client secret: non4U7gVQPvtDc_myEohZ8_Y
